@@ -1,1 +1,1 @@
-# sedirads-apkv8
+# sedirads-apkv7
